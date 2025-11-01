@@ -17,6 +17,22 @@
   "settings": {},
   "notifications": [
     {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033748308",
+      "createdAt": "2025-11-01T21:49:08.308Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033748284",
+      "createdAt": "2025-11-01T21:49:08.284Z"
+    },
+    {
       "type": "general",
       "title": "Demande acceptée",
       "message": "NekuraX a accepté votre demande d'amitié",
@@ -63,6 +79,30 @@
       "read": false,
       "id": "1762033100284",
       "createdAt": "2025-11-01T21:38:20.284Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033379351",
+      "createdAt": "2025-11-01T21:42:59.351Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033379326",
+      "createdAt": "2025-11-01T21:42:59.326Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762033379301",
+      "createdAt": "2025-11-01T21:42:59.301Z"
     }
   ],
   "friends": [
@@ -82,7 +122,7 @@
   ],
   "friendRequests": [],
   "favorites": [],
-  "lastSeen": "2025-11-01T21:42:51.282Z",
+  "lastSeen": "2025-11-01T21:38:02.287Z",
   "chatHistory": {},
   "avatar": null,
   "avatarHistory": []
