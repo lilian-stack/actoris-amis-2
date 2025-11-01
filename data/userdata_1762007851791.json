@@ -21,6 +21,14 @@
       "title": "Nouveau jeu disponible !",
       "message": "Hollow Knight vient d'être ajouté au catalogue",
       "read": false,
+      "id": "1762033748338",
+      "createdAt": "2025-11-01T21:49:08.338Z"
+    },
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
       "id": "1762033748308",
       "createdAt": "2025-11-01T21:49:08.308Z"
     },
@@ -122,7 +130,7 @@
   ],
   "friendRequests": [],
   "favorites": [],
-  "lastSeen": "2025-11-01T21:38:02.287Z",
+  "lastSeen": "2025-11-01T21:49:13.287Z",
   "chatHistory": {},
   "avatar": null,
   "avatarHistory": []
